@@ -1,0 +1,21 @@
+{
+    "name": "App da Madrinha",
+    "short_name": "Madrinha",
+    "description": "Rezas, Curas e Benzimentos à Distância",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6fa87a",
+    "icons": [
+      {
+        "src": "img/icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
